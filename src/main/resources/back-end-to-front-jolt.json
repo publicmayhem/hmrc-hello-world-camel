@@ -1,0 +1,10 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "responseCount": "messageCount",
+      "fullname": "fullname",
+      "greeting": "message"
+    }
+  }
+]

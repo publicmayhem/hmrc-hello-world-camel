@@ -1,0 +1,7 @@
+{
+  "id": .id,
+  "firstname": .forename,
+  "surname": .lastname,
+  "fullname": .forename + " " + . lastname,
+  "occupation": .occupation
+}

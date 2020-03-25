@@ -1,0 +1,10 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "firstname": "forename",
+      "lastname": "surname",
+      "occupation": "occupation"
+    }
+  }
+]
