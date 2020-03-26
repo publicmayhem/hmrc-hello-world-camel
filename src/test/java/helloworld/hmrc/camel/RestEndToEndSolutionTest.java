@@ -24,7 +24,7 @@ import static org.hamcrest.core.IsNull.notNullValue;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-public class TestRestRoutes {
+public class RestEndToEndSolutionTest {
 
     @Autowired
     private TestRestTemplate restTemplate;
